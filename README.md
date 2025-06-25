@@ -1,49 +1,62 @@
-# 🛒 ShopSmart-WalBot – AI-Powered Shopping Assistant
+# 🛒 ShopSmartBot – AI-Powered Shopping Assistant
 
-**ShopSmart-WalBot** is a personalized AI shopping companion designed to enhance the customer experience by providing intelligent, human-like assistance within the Walmart ecosystem. Built for the Walmart Sparkathon 2025, this project reimagines the way customers interact with e-commerce platforms using conversational AI.
-
----
-
-## 💡 What It Does
-
-ShopSmart-WalBot understands natural language queries and helps users with:
-
-- 🔍 **Smart Product Discovery**  
-  Users can ask questions like “Suggest a good breakfast cereal under ₹200” or “What’s a durable school bag for a 12-year-old?” and receive tailored results.
-
-- ⚖️ **Product Comparison**  
-  The bot compares items based on features, prices, reviews, and availability, helping users make faster, smarter choices.
-
-- 💰 **Deal & Discount Suggestions**  
-  Automatically highlights trending deals, budget combos, and seasonal offers based on the user’s query or shopping intent.
-
-- 📦 **Personalized Recommendations**  
-  Based on user behavior, preferences, and profile (mocked for demo), it recommends products that are relevant and useful.
+**ShopSmartBot** is a personalized AI shopping companion designed to enhance the customer experience by providing intelligent, human-like assistance across e-commerce platforms. This conversational AI project reimagines how customers interact with digital shopping environments to streamline and personalize their online experience.
 
 ---
 
-## 🎯 Why It’s Valuable
+## 💡 Features
 
-- ✅ Enhances customer satisfaction with quick, contextual responses
-- ✅ Saves time by simplifying decision-making during online shopping
-- ✅ Bridges the gap between browsing and buying through conversational commerce
-- ✅ Scalable to support voice, regional languages, and real-time data
+### 🔍 Smart Product Discovery
+Ask product-specific questions like:
+- “Suggest a good breakfast cereal under ₹200”
+- “What’s a durable school bag for a 12-year-old?”
+
+The bot intelligently parses queries and fetches relevant results tailored to user needs.
+
+### ⚖️ Product Comparison
+Compare products side-by-side based on:
+- Features
+- Price
+- User reviews
+- Availability
+
+Helps users make informed purchasing decisions efficiently.
+
+### 💰 Deal & Discount Suggestions
+- Highlights trending deals and limited-time offers.
+- Suggests best-value combos and budget-friendly options based on intent.
+
+### 📦 Personalized Recommendations
+- Analyzes user behavior and preferences (mocked for demo).
+- Recommends relevant products that match user profiles or past behavior.
 
 ---
 
-## 🔮 Future Possibilities
+## 🎯 Why ShopSmartBot?
 
-- Voice integration for hands-free shopping
-- Regional language support for vernacular queries
-- Integration with real-time inventory and pricing APIs
-- Visual search for image-based product lookup
+- ✅ Instant, contextual assistance for better customer engagement  
+- ✅ Reduces time spent browsing and improves conversion rates  
+- ✅ Offers intuitive decision support via conversation  
+- ✅ Built to scale with voice, regional language support, and real-time data access  
 
 ---
 
-## 🏁 Built For
+## 🔮 Future Enhancements
 
-**Walmart Sparkathon 2025**  
-Theme: *Reimagining Customer Experience with Emerging Technologies*
+- 🎙️ Voice integration for hands-free, natural conversations  
+- 🌐 Regional language support for wider accessibility  
+- 🔄 Real-time inventory and pricing API integration  
+- 🖼️ Visual search to identify products through images  
 
-Crafted with a focus on innovation, personalization, and intelligent retail.
+---
 
+## 👤 Author
+
+**Chaitanya Gajjarapu**  
+📍 Vijayawada, India  
+🌐 [Portfolio](https://chaitanyagajjarapu.vercel.app/)  
+✉️ [Contact Me](mailto:chaitanyagajjarapu05@gmail.com)  
+
+---
+
+Feel free to reach out for **collaboration**, **contributions**, or **project discussions**!
